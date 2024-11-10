@@ -4,3 +4,4 @@ Diagonal magic cube merupakan kubus yang tersusun dari angka 1 hingga n3 tanpa p
 ## Cara Setup dan Run Program
 1. Lakukan clone repository dengan terminal menggunakan command berikut ""git clone https://github.com/yogaputrap/Tubes1_IF3070.git""
 2. Buka ke cmd atau terminal dan masuk ke directory clone "cd /Tubes1_IF3070"
+3. Jalankan program dengan command berikut "python main.py"
