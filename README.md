@@ -1,1 +1,1 @@
-# Tubes1_IF3070
+# Pencarian Solusi Diagonal Magic Cube dengan Local Search
